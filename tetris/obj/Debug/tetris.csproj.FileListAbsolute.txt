@@ -1,0 +1,1 @@
+c:\users\pavel\documents\visual studio 2015\Projects\tetris\tetris\bin\Debug\tetris.exe.config

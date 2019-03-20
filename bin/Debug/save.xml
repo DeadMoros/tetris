@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<collection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playersCollection>
+    <player>
+      <name>Винни пух</name>
+      <score>1400</score>
+    </player>
+    <player>
+      <name>Пяточок</name>
+      <score>1300</score>
+    </player>
+    <player>
+      <name>Леопольд</name>
+      <score>1200</score>
+    </player>
+    <player>
+      <name>Алеша Попович</name>
+      <score>1100</score>
+    </player>
+    <player>
+      <name>Колобок</name>
+      <score>1000</score>
+    </player>
+    <player>
+      <name>Иван Дурак</name>
+      <score>900</score>
+    </player>
+    <player>
+      <name>Попугай Кеша</name>
+      <score>800</score>
+    </player>
+    <player>
+      <name>Чебурашка</name>
+      <score>700</score>
+    </player>
+    <player>
+      <name>Карлсон</name>
+      <score>600</score>
+    </player>
+    <player>
+      <name>Незнайка</name>
+      <score>500</score>
+    </player>
+  </playersCollection>
+</collection>

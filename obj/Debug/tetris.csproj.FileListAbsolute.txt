@@ -1,0 +1,12 @@
+C:\Users\Pavel\Desktop\tetris\bin\Debug\tetris.exe.config
+C:\Users\Pavel\Desktop\tetris\bin\Debug\tetris.exe
+C:\Users\Pavel\Desktop\tetris\bin\Debug\tetris.pdb
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.Form1.resources
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.Form2.resources
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.Form3.resources
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.Resource1.resources
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.csproj.GenerateResource.Cache
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.exe
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.pdb
+C:\Users\Pavel\Desktop\tetris\obj\Debug\tetris.csprojResolveAssemblyReference.cache

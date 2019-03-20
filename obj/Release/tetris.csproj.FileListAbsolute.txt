@@ -1,0 +1,34 @@
+C:\Users\Pavel\Desktop\tetris\bin\Release\tetris.exe.config
+C:\Users\Pavel\Desktop\tetris\bin\Release\tetris.exe
+C:\Users\Pavel\Desktop\tetris\bin\Release\tetris.pdb
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.Form1.resources
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.Properties.Resources.resources
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.csproj.GenerateResource.Cache
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.exe
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.pdb
+E:\tetris\bin\Release\tetris.exe.config
+E:\tetris\bin\Release\tetris.exe
+E:\tetris\bin\Release\tetris.pdb
+E:\tetris\obj\Release\tetris.csprojResolveAssemblyReference.cache
+E:\tetris\obj\Release\tetris.Form1.resources
+E:\tetris\obj\Release\tetris.Properties.Resources.resources
+E:\tetris\obj\Release\tetris.csproj.GenerateResource.Cache
+E:\tetris\obj\Release\tetris.exe
+E:\tetris\obj\Release\tetris.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\bin\Release\tetris.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\bin\Release\tetris.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\bin\Release\tetris.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.Form1.resources
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.Properties.Resources.resources
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.Form2.resources
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.Form3.resources
+C:\Users\Pavel\documents\visual studio 2015\Projects\tetris\obj\Release\tetris.Resource1.resources
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\tetris\obj\Release\tetris.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.Form2.resources
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.Form3.resources
+C:\Users\Pavel\Desktop\tetris\obj\Release\tetris.Resource1.resources
